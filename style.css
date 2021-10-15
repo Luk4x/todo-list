@@ -10,14 +10,7 @@ body {
     background: linear-gradient(90deg, rgb(100, 6, 100) 0%, rgb(6, 6, 218) 100%);
 }
 
-h1 {
-    color: rgba(255, 255, 255, 0.041);
-    margin-top: 40px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-#btn-add {
+#btn-addc {
     background: rgb(58, 4, 58);
     border-radius: 5px;
     width: 120px;
@@ -41,7 +34,6 @@ h1 {
 .box {
     background: white;
     width: 550px;
-    height: 500px;
     border-radius: 5px;
     margin-top: 140px;
     margin-left: auto;
@@ -120,4 +112,9 @@ h1 {
 .list:hover .btn-add {
     transition: opacity 0.5s ease-in-out;
     opacity: 1;
+}
+
+.done {
+    background: #cdf088;
+    text-decoration: line-through;
 }
