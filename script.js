@@ -6,13 +6,7 @@ let tasklist = document.getElementById('tasks')
 reloadTasks()
 
 btn.addEventListener('click', addTask)
-btn.addEventListener('keypress', enterKey)
-
-function enterKey(keys) {
-  if (keys.key == 'Enter') {
-    addTask()
-  }
-}
+document.addEventListener('keypress', enterKey)
 
 function addTask() {
   if (input.value) {
@@ -64,5 +58,11 @@ function reloadTasks() {
   if (myTasks) {
     taskArray = JSON.parse(myTasks)
     showTasks()
+  }
+}
+
+function enterKey(key) {
+  if (key.key === 'Enter') {
+    addTask()
   }
 }
