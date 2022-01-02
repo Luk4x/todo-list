@@ -23,17 +23,17 @@ body {
     font-weight: 700;
 }
 
-#btn-add:hover {
+#btn-addc:hover {
     opacity: 0.9;
 }
 
-#btn-add:active {
-    opacity: 0.8;
+#btn-addc:active {
+    transform: translateY(2px);
 }
 
 .box {
     background: white;
-    width: 550px;
+    width: 560px;
     border-radius: 5px;
     margin-top: 140px;
     margin-left: auto;
@@ -105,12 +105,12 @@ body {
 }
 
 .list:hover .btn-del {
-    transition: opacity 0.5s ease-in-out;
+    transition: opacity 0.4s ease-in-out;
     opacity: 1;
 }
 
 .list:hover .btn-add {
-    transition: opacity 0.5s ease-in-out;
+    transition: opacity 0.4s ease-in-out;
     opacity: 1;
 }
 
