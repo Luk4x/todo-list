@@ -1,7 +1,7 @@
 # To-do List
 
 ## About
-To-do List using HTML5, CSS3 and JavaScript.
+To-do list created with HTML5, CSS3 and JavaScript. Application built in the event Missão Programador 5d by Rodolfo Mori. It was one of the first applications I made, and I learned a lot about JavaScript and CSS, and how they and HTML work together on the web at the time.
 
 ## Result
 <img src="./result.png" alt="challenge-result">
