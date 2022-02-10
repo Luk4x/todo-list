@@ -7,7 +7,7 @@ To-do list created with HTML5, CSS3 and JavaScript. Application built in the eve
 <img src="./result.png" alt="challenge-result">
 Access the project <a href="https://luk4x.github.io/MissProg5d/">HERE</a>
 
-## 🤝 Contributors Linkedin
+## Contributors Contact
 <table>
   <tr>
     <td align="center">
