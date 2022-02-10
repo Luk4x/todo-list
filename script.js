@@ -28,13 +28,13 @@ function showTasks() {
       newLi +
       `<li class="list ${task.status == true ? 'done' : ''}">
     <button class="btn-add" onclick="doneTask(${index})">
-        <i class="far fa-plus-square"></i>
+        <i class="fas fa-rocket"></i>
     </button>
     <p class="task-name ${task.status == true ? 'done' : ''}" id="task-id">${
         task.taski
       }</p>
     <button class="btn-del" onclick="delTask(${index})">
-        <i class="far fa-minus-square"></i>
+        <i class="fas fa-trash"></i>
     </button>
     </li>`
   })
