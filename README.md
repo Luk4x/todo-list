@@ -6,7 +6,7 @@ It is a dynamic to-do list, with functions to add, mark as complete and remove, 
 
 ## Result
 <p align="center">
-  <video src="https://user-images.githubusercontent.com/86276393/153721760-f8439d4c-2031-4f20-a43b-fadf4ff8f243.mp4" autoplay muted>
+  <video src="https://user-images.githubusercontent.com/86276393/154358185-36f8095f-bb90-4ccc-bd31-c9fe574408ad.mp4" autoplay muted>
 </p>
 Access the project <a href="https://luk4x.github.io/MissProg5d/">HERE</a>
 
