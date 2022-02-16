@@ -2,7 +2,7 @@
 
 ## About
 To-do List was an application created at the event "Missão Programador 5D" with Professor <a href="https://www.linkedin.com/in/rodolfomori/" target="_blank">Rodolfo Mori<a> using HTML, CSS and JavaScript.
-It is a dynamic to-do list, with functions to add, mark as complete and remove, as well as saving the data in localStorage. I basically improved in terms of responsiveness and animation.
+It is a dynamic to-do list, with functions to add, mark as complete and remove, and also save this data in localStorage. I basically improved in terms of responsiveness and animation.
 
 ## Result
 <p align="center">
