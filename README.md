@@ -1,7 +1,8 @@
 # To-do List
 
 ## About
-To-do list created with HTML5, CSS3 and JavaScript. Application built in the event "Missão Programador 5D" with Professor <a href="https://www.linkedin.com/in/rodolfomori/" target="_blank">Rodolfo Mori<a>. It was one of the first applications I made, and I learned a lot about JavaScript and CSS, and how they and HTML work together on the web at the time.
+To-do List was an application created at the event "Missão Programador 5D" with Professor <a href="https://www.linkedin.com/in/rodolfomori/" target="_blank">Rodolfo Mori<a> using HTML, CSS and JavaScript.
+It is a dynamic to-do list, with functions to add, mark as complete and remove, as well as saving the data in localStorage. I basically improved in terms of responsiveness and animation.
 
 ## Result
 <p align="center">
