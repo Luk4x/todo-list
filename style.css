@@ -56,7 +56,7 @@ body {
 }
 
 #main-input:focus {
-    width: 60%;
+    width: 58%;
 }
 
 #tasks {
@@ -127,4 +127,14 @@ body {
 .done {
     background: #cdf088;
     text-decoration: line-through;
+}
+
+@media screen and (max-width: 550px) {
+    .btn-add {
+        opacity: 1;
+    }
+
+    .btn-del {
+        opacity: 1;
+    }
 }
