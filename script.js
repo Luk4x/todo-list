@@ -18,6 +18,7 @@ function addTask() {
     alert('Digite uma tarefa!')
   }
   input.value = ''
+  input.focus()
   showTasks()
 }
 
