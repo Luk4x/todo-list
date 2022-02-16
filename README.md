@@ -1,13 +1,15 @@
 # To-do List
 
 ## About
-To-do List using HTML5, CSS3 and JavaScript.
+To-do list created with HTML5, CSS3 and JavaScript. Application built in the event "Missão Programador 5D" with Professor <a href="https://www.linkedin.com/in/rodolfomori/" target="_blank">Rodolfo Mori<a>. It was one of the first applications I made, and I learned a lot about JavaScript and CSS, and how they and HTML work together on the web at the time.
 
 ## Result
-<img src="./result.png" alt="challenge-result">
+<p align="center">
+  <video src="https://user-images.githubusercontent.com/86276393/153721760-f8439d4c-2031-4f20-a43b-fadf4ff8f243.mp4" autoplay muted>
+</p>
 Access the project <a href="https://luk4x.github.io/MissProg5d/">HERE</a>
 
-## 🤝 Contributors Linkedin
+## Contributors Contact
 <table>
   <tr>
     <td align="center">
