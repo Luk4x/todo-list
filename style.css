@@ -38,10 +38,11 @@ body {
     width: 90%;
     max-width: 600px;
     border-radius: 5px;
-    margin-top: 140px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 140px auto;
     padding: 30px 20px;
+    border: 3px solid transparent;
+    border-image: linear-gradient(-90deg, rgb(100, 6, 100) 0%, rgb(6, 6, 218) 100%);
+    border-image-slice: 1;
 }
 
 #main-input {
